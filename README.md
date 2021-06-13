@@ -1,11 +1,15 @@
 # *thread-safe-counter
 ## Project #2 : Compare between semaphore vs Mutex
 
--Mutex_result
+### OS environment : Ubuntu 18.04
+### Project : Compare between Semaphore and Mutex
+
+
+- Mutex_result
 
 ![image](https://user-images.githubusercontent.com/84621391/121811463-76354100-cc9f-11eb-92c6-f0bd6e813b9b.png)
 
--Semaphore_result
+- Semaphore_result
 
 ![image](https://user-images.githubusercontent.com/84621391/121811503-8fd68880-cc9f-11eb-9ca3-47e4b1399221.png)
 

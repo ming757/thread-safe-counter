@@ -2,7 +2,7 @@
 ## Project #2 : Compare between semaphore vs Mutex
 
 ### - OS environment : Ubuntu 18.04
-### - Project : Compare between Semaphore and Mutex
+
 
 
 - Mutex_result

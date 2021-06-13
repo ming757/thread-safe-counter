@@ -1,5 +1,5 @@
 # *thread-safe-counter
-## Project #2 : Compare between semaphore vs Mutex
+## Project #2 : Compare between semaphore and Mutex
 
 ### - OS environment : Ubuntu 18.04
 
@@ -15,4 +15,4 @@
 
 - Conclusion
 
-According to the above result, it can be seen that the semaphore takes much time than the mutex. Originally, semaphores are usually faster than mutex because they have more shared resources. But in this code, we can see that the mutex take less time than the semaphore because there is just only one resource.
+According to the above result, it can be seen that the semaphore takes much time than the mutex. Originally, semaphore is usually faster than mutex because they have more shared resources. But in this code, we can see that the mutex takes less time than the semaphore because there is just only one resource.
